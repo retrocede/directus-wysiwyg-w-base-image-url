@@ -1,0 +1,1 @@
+# directus-wysiwyg-w-base-image-url
